@@ -8,7 +8,7 @@ Repository accompanying the preprint and monograph detailing the Universes Theor
 
 ## Official References & Preprints
 - **OSF Preprint & Monograph:** https://doi.org/10.17605/OSF.IO/EFZXD
-- **CERN Archive & DOI (Zenodo):** https://doi.org/10.5281/zenodo.23665705
+- **CERN Archive & DOI (Zenodo):** https://doi.org/10.5281/zenodo.23730643
 
 ## License
 This project and code are distributed under the **CC BY-NC-SA 4.0** License.
